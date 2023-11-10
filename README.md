@@ -32,7 +32,7 @@
 <a href="https://instagram.com/N6mz" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/manarshahin48/" title="LinkedIn"><img align="center"
+<a href="https://www.linkedin.com/in/raad-alageeli/" title="LinkedIn"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
 <a href="mailto:Raad_alageeli@hotmail.com"><img align="center"
@@ -80,4 +80,4 @@ needs of the poor, and extends a helping hand to them.
 All details about [`here`](https://drive.google.com/file/d/1H-FSynBnvM7y7QdmrWRGpayDsFtRJT-G/view?usp=sharing).
 
 
-                                         Thanks you for reviewing my Profile
+                                       Thanks you for reviewing my Profile
