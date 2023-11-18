@@ -13,7 +13,7 @@
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
-- Major:a `Computer Science Fresh Graduate` From the College of Computer Science and Technology at Jazan University
+- Major: a `Computer Science Fresh Graduate` From the College of Computer Science and Technology at Jazan University
 - I'm currently looking for a job on `IT or related things`this is [MY RESUME](https://drive.google.com/file/d/1H-FSynBnvM7y7QdmrWRGpayDsFtRJT-G/view?usp=sharing).
 - I’m currently studing `Data Analysis`
 - How to reach me **Raad_Alageeli@hotmail.com**
